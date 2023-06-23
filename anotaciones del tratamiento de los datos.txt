@@ -1,0 +1,3 @@
+1 Como en varias columnas que tenia que pasar de texto a entero y el dataset tenia campos con los valores escritos literalmente "sin dato" y el traspaso a entero genraba error, para salvar esta inconscistencia utilice el valor 0 (cero) para rellenar esas celdas y no perder los demas datos.
+2 Para poder representar y contar valores del tipo texto hemos utilizado un ranking para segmentar y representar estas categorias. 
+   
