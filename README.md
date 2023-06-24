@@ -2,13 +2,13 @@
 
 ## Grupo 15
 ## Integrantes:
--[Juan Alcaraz](https://github.com/juancaalcaraz)
--[Roberto Schiaffino](https://github.com/elyober)
--[Sergio Daniel Tamietto](https://github.com/sergiotamietto)
--[Belén Micaela Carabajal](https://github.com/Belenmcp)
--[María Paula Badin](https://github.com/paulabadin)
--[Karina Steinbrecher]
--[Hellmutt Popp]
+- [Juan Alcaraz](https://github.com/juancaalcaraz)
+- [Roberto Schiaffino](https://github.com/elyober)
+- [Sergio Daniel Tamietto](https://github.com/sergiotamietto)
+- [Belén Micaela Carabajal](https://github.com/Belenmcp)
+- [María Paula Badin](https://github.com/paulabadin)
+- [Karina Steinbrecher]
+- [Hellmutt Popp]
 
 
 
