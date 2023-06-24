@@ -1,7 +1,7 @@
-# ISPC - Procesamiento de Datos
+# ISPC - Procesamiento de Datos 2023
 
 ## Grupo 15
-## Integrantes:
+
 - [Juan Alcaraz](https://github.com/juancaalcaraz)
 - [Roberto Schiaffino](https://github.com/elyober)
 - [Sergio Daniel Tamietto](https://github.com/sergiotamietto)
@@ -9,7 +9,6 @@
 - [María Paula Badin](https://github.com/paulabadin)
 - [Karina Steinbrecher]
 - [Hellmutt Popp]
-
 
 
 ## Objetivo del proyecto: 
