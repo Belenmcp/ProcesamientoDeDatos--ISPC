@@ -11,15 +11,8 @@ Aplicar los conceptos estudiados en el espacio curricular de "Procesamiento de D
 
 ## Descripción del proyecto:
 
-Desarrollar un procesamiento de datos que incluya las siguientes etapas:
+El proyecto de procesamiento de datos que se presenta tiene como objetivo analizar y comprender los llamados telefónicos realizados a la línea de ayuda nacional, conocida como Línea 137, durante el periodo comprendido entre enero y abril de 2023. En este caso particular, el enfoque se centra en los casos de violencia sexual reportados por personas de todo el país. A través del análisis de  estos llamados, se busca obtener información valiosa que permita comprender mejor la dimensión y características de este grave problema social.
 
-- Recolección y preparación de datos: Obtener o recolectar conjuntos de datos relevantes para el tema elegido. Realizar las tareas   de limpieza, integración y transformación necesarias para preparar los datos para el análisis.
-      
-- Análisis exploratorio de datos: Aplicar técnicas de análisis exploratorio para comprender y explorar los datos en profundidad. Esto puede incluir la identificación de patrones, relaciones, valores atípicos y distribuciones de variables.
-      
-- Procesamiento y análisis de datos: Aplicar técnicas de procesamiento de datos para realizar tareas como filtrado, agregación, transformación y cálculo de métricas relevantes para el tema elegido. Utilizar herramientas de software y lenguajes de programación adecuados para llevar a cabo estas tareas.
-      
-- Visualización de datos: Utilizar técnicas y herramientas de visualización de datos para representar gráficamente la información obtenida. Se deben explorar diferentes técnicas de visualización, como gráficos de barras, gráficos de dispersión, diagramas de caja, mapas, entre otros. Además, aplicar técnicas de visualización de múltiples variables para identificar relaciones y patrones complejos en los datos.
-      
-- Comunicación efectiva de resultados: Generar reportes que presenten de manera clara y concisa los resultados obtenidos durante el procesamiento y análisis de datos.
+Alcance y Objetivos:
+El proyecto tiene un alcance nacional, abarcando todos los llamados telefónicos realizados a la Línea 137 en el periodo mencionado. Se recopilarán datos relevantes relacionados con casos de violencia sexual, incluyendo la ubicación geográfica, edad y género de las personas que realizan los llamados, así como los detalles y circunstancias de cada caso reportado. El objetivo principal es analizar y procesar estos datos para obtener una visión más clara de la violencia sexual en el país, identificar patrones y tendencias, y generar información que pueda ser utilizada para la implementación de políticas y programas de prevención y atención adecuados.
 
