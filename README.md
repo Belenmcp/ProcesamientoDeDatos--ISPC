@@ -7,8 +7,8 @@
 - [Sergio Daniel Tamietto](https://github.com/sergiotamietto)
 - [Belén Micaela Carabajal](https://github.com/Belenmcp)
 - [María Paula Badin](https://github.com/paulabadin)
-- [Karina Steinbrecher]
-- [Hellmutt Popp]
+- [Karina Steinbrecher](https://github.com/EliSteinCD)
+- [Hellmutt Popp](https://github.com/hellmutt18)
 
 **Tabla de Contenidos**
 1. [Proyecto: Llamados Telefonicos línea 137: casos de violencia sexual](#id1)
