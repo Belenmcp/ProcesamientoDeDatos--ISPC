@@ -16,7 +16,7 @@
 3. [Objetivo del proyecto:](#id3)
 4. [Descripción del proyecto:](#id4)
 5. [INFORME PowerBI+wepik](Informe.pdf)
-
+6. [INFORME Jupyter Notebook en PDF](Informe.pdf)
 
 ## Proyecto: Llamados Telefonicos línea 137: casos de violencia sexual<a name="id1"></a> 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3?color=%233776AB&style=for-the-badge)
